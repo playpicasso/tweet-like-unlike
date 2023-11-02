@@ -3,15 +3,15 @@ This helps automate the process of unliking tweets from the 'Liked' tweets secti
 
 How to Use
 
-Log in to your Twitter account on a web browser.
-Navigate to the 'Liked' tweets section on your profile.
-Open the browser's Developer Console:
-Chrome: Right-click anywhere on the page and select Inspect, then click on the Console tab.
-Firefox: Right-click anywhere on the page and select Inspect Element, then click on the Console tab.
-Copy the entire script from like-unlike.js and paste it into the console.
-Scroll down as much as you want to load all the tweets you want to unlike in the current session. (Working on making it auto load in itself)
-Press Enter to run the script.
-Watch as the script processes your liked tweets, either just unliking them or liking then immediately unliking them.
+- Log in to your Twitter account on a web browser.<br>
+- Navigate to the 'Liked' tweets section on your profile.<br>
+- Open the browser's Developer Console:<br>
+- Chrome: Right-click anywhere on the page and select Inspect, then click on the Console tab.<br>
+- Firefox: Right-click anywhere on the page and select Inspect Element, then click on the Console tab.<br>
+- Copy the entire script from like-unlike.js and paste it into the console.<br>
+- Scroll down as much as you want to load all the tweets you want to unlike in the current session. (Working on making it auto load)<br>
+- Press Enter to run the script.<br>
+- Watch as the script processes your liked tweets, either just unliking them or liking then immediately unliking them.<br>
 
 Features
 
